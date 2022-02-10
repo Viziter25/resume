@@ -73,10 +73,12 @@ a:active {
     margin-right: 20px;
 }
 
-.container {
+.container,
+.wrapper {
     max-width: 750px;
     margin: auto;
     padding-top: 30px;
+    position: relative;
 }
 
 .container-english {
@@ -160,9 +162,11 @@ a:active {
 }
 
 .tabheader__items{
-    left: 555px;
-    top: 40px;
+    left: 240px;
+    top: 60px;
     position: absolute;
+    z-index: 10;
+
 }
 
 
