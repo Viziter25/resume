@@ -1,1 +1,1 @@
-# https://viziter25.github.io/resume/cv
+# https://viziter25.github.io/resume
