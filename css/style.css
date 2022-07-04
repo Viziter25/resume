@@ -195,6 +195,9 @@ a:active {
         top: 335px;
         position: absolute;
     }
+    .list-item {
+    margin: 0 0px;
+    }
 
 }
 
