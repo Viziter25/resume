@@ -53,8 +53,10 @@ a:active {
 }
 
 .info-text h4 {
-    margin-bottom: 10px;
+    margin-bottom: -7px;
+    padding: 22px 0;
 }
+
 
 .info p {
     color: #86898f;
@@ -103,7 +105,7 @@ a:active {
 
 
 .card {
-    padding: 5px 20px 10px;
+    padding: 5px 20px 15px;
     margin-bottom: 10px;
     border-radius: 20px;
     
@@ -112,6 +114,14 @@ a:active {
 
 .card h2 {
     margin-bottom: 10px;
+}
+
+.skills-list {
+    display: flex;
+}
+
+.list-item {
+    margin: 0 30px;
 }
 
 .card p {
@@ -123,7 +133,8 @@ a:active {
 }
 
 .list li {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+    text-align: justify;
 }
 
 .table {
