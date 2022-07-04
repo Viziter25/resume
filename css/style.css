@@ -196,7 +196,11 @@ a:active {
         position: absolute;
     }
     .list-item {
-    margin: 0 0px;
+        margin: 0 0px;
+    }
+
+    .bg-red {
+        font-size: 15px;
     }
 
 }
